@@ -1,26 +1,3 @@
-// import React from 'react';
-// import axios from 'axios';
-
-
-// function courses(props) {            
-//     return (         
-//                     <tr className="table-row">
-//                         <td>{props.CourseId}</td>
-//                         <td>{props.CourseName}</td>
-//                         <td>{props.Provider}</td>  
-//                         <td>{props.universitry}</td>  
-//                         <td>{props.parentSubject}</td>  
-//                         <td>{props.childSubject}</td>  
-//                         <td>{props.url}</td>  
-//                         <td>{props.nextSessionDate}</td>  
-//                         <td>{props.length}</td>  
-//                         <td>{props.videoUrl}</td>  
-//                     </tr>                                                 
-                  
-//     )
-// }
-
-// export default courses;
 
 import React from 'react'
 import axios from 'axios';
